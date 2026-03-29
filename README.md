@@ -5,28 +5,11 @@ I enjoy building practical, reliable products with clean architecture, thoughtfu
 
 I’m focused on shipping open-source work, learning continuously, and going deeper in system design and software architecture.
 
-## 🛠 Tech Stack
+## 🌱 Why I Build This Way
 
-### Currently Using
+I’m motivated by building software that stays useful over time, not just software that looks good in a demo. That is why I’m especially drawn to distributed systems, system design, architecture, offline-first thinking, and P2P patterns. These areas help me design products that are resilient, scalable, and practical in real-world conditions.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Vue.js](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
-
-### Learning / Exploring
-
-![Go (Learning)](https://img.shields.io/badge/Go-Learning-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
-
-## 📚 Current Interests
-
-- Distributed systems
-- System design and software architecture
-- Offline-first application design
-- Building maintainable open-source software
+I also enjoy learning new frameworks, runtimes, and engineering environments because each one teaches a different way to think about performance, reliability, and developer experience. Exploring these tools is part of my long-term goal: becoming a stronger engineer who can make better technical decisions and build products with lasting impact.
 
 ## 🤝 Connect
 
